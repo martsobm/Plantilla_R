@@ -1,4 +1,5 @@
 ---
+# Cambio en GitHub
 # El segmento entre --- se denomina cabecera YALM y determina el formato y tipo de documento generado
 # Las opciones dependen del tipo de documento que se quiera generar
 # Ver https://bookdown.org/yihui/rmarkdown/ 
