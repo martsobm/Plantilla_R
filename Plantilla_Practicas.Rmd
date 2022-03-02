@@ -1,6 +1,7 @@
 ---
 <<<<<<< HEAD
 #CAMBIO LOCAL
+#Cambio local2
 =======
 # Cambio en GitHub
 >>>>>>> 65dd0d3b74206a99c751707bf6ebaac311159649
